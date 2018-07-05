@@ -1,6 +1,5 @@
 /* 
  * File:   filterControll.h
- * Author: Scott Briscoe
  *
  * Created on November 9, 2015, 8:19 PM
  */
