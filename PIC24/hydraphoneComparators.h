@@ -1,6 +1,5 @@
 /* 
  * File:   hydraphoneComparators.h
- * Author: e217
  *
  * Created on November 19, 2015, 1:37 PM
  */
