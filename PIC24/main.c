@@ -1,6 +1,5 @@
 /* 9768
 * File:   main.c
-* Author: Scott Briscoe
 *
 * Created on September 28, 2015, 9:21 PM
 */
