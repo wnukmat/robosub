@@ -1,6 +1,5 @@
 /* 
 * File:   uart_sb.h
-* Author: Scott Briscoe
 *
 * Created on November 17, 2015, 4:46 PM
 */
