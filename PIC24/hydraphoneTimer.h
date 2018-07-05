@@ -1,6 +1,5 @@
 /* 
  * File:   hydraphoneTimer.h
- * Author: Scott Briscoe
  *
  * Created on November 17, 2015, 4:35 PM
  */
